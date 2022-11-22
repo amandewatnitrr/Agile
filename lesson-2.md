@@ -22,7 +22,7 @@
   - Manage the work, let people self-organize around it.
   - Your Organization is an ecosystem of independent services steered by it's policies, reflect regularly on their effective and improve them
 
-<img align="right" width="30%" src="https://github.com/amandewatnitrr/Agile/blob/master/img/illustrations-spot-hero-Finishing.png">
+<img align="right" width="50%" src="https://github.com/amandewatnitrr/Agile/blob/master/img/illustrations-spot-hero-Finishing.png">
 
 - While the core principles of the framework are timeless and applicable to almost any industry, software development teams have found particular success with the agile practice. 
 - In part, this is because software teams can begin practicing with little to no overhead once they understand the basic principles. 
