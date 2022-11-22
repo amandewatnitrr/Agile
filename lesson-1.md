@@ -16,7 +16,7 @@
 - Agile doesn't make decisions for you. instead it gives you a foundation for teams to make decisions about how to do their work and how to make decision that result in better software development.
 - The Agile Manifesto has only 68 words and it simply says that we can develop software better by valuing the items on the left side of the list more than the items on the right side of the list.
 
-![](https://github.com/amandewatnitrr/Agile/blob/master/img/agile-manifesto2.png)
+<img align="left" src="https://github.com/amandewatnitrr/Agile/blob/master/img/agile-manifesto2.png">
 
-
+- 
 
